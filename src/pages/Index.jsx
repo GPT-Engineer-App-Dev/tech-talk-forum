@@ -1,5 +1,5 @@
 import { Box, Container, Flex, Heading, HStack, IconButton, Input, Link, Spacer, Text, VStack } from "@chakra-ui/react";
-import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaTwitter, FaInstagram, FaPlus } from "react-icons/fa";
 
 const Index = () => {
   return (
